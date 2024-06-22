@@ -3494,3 +3494,16 @@ https://craigclouditpro.wordpress.com/2020/03/04/hunting-malicious-windows-defen
 https://github.com/nathan31337/Splunk-RCE-poc/
 http://www.solomonson.com/posts/2010-07-09-reading-eventviewer-command-line/
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-eventlog?view=powershell-5.1
+https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
+https://github.com/deepinstinct/NoFilter
+https://github.com/poweradminllc/PAExec
+https://medium.com/tenable-techblog/bypassing-authentication-on-arcadyan-routers-with-cve-2021-20090-and-rooting-some-buffalo-ea1dd30980c2
+https://github.com/cloudflare/cloudflared/releases
+https://www.virustotal.com/gui/file/4ffdc72d1ff1ee8228e31691020fc275afd1baee5a985403a71ca8c7bd36e2e4/behavior
+https://github.com/outflanknl/NetshHelperBeacon
+https://thedfirreport.com/2023/10/30/netsupport-intrusion-results-in-domain-compromise/
+https://www.virustotal.com/gui/file/03b71eaceadea05bc0eea5cddecaa05f245126d6b16cfcd0f3ba0442ac58dab3/behavior
+https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-apt10-japan-espionage
+https://ngrok.com/blog-post/new-ngrok-domains
+https://www.virustotal.com/gui/file/d72af640b71b8e3eca3eba660dd7c7f029ff8852bcacaa379e7b6c57cf4d9b44
+https://www.sentinelone.com/wp-content/uploads/pdf-gen/1630910064/20-common-tools-techniques-used-by-macos-threat-actors-malware.pdf
