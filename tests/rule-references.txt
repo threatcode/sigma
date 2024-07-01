@@ -3507,3 +3507,16 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/cicada-
 https://ngrok.com/blog-post/new-ngrok-domains
 https://www.virustotal.com/gui/file/d72af640b71b8e3eca3eba660dd7c7f029ff8852bcacaa379e7b6c57cf4d9b44
 https://www.sentinelone.com/wp-content/uploads/pdf-gen/1630910064/20-common-tools-techniques-used-by-macos-threat-actors-malware.pdf
+https://ss64.com/osx/sw_vers.html
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/windows-security/prevent-windows-store-lm-hash-password
+https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/do-more-with-tunnels/trycloudflare/
+https://www.virustotal.com/gui/file/a864282fea5a536510ae86c77ce46f7827687783628e4f2ceb5bf2c41b8cd3c6/behavior
+https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a
+https://www.malwarebytes.com/blog/detections/pum-optional-nodispbackgroundpage
+https://www.virustotal.com/gui/file/483fafc64a2b84197e1ef6a3f51e443f84dc5742602e08b9e8ec6ad690b34ed0/behavior
+https://github.com/antonioCoco/RoguePotato
+https://x.com/_st0pp3r_/status/1742203752361128162?s=20
+https://www.publicnow.com/view/EB87DB49C654D9B63995FAD4C9DE3D3CC4F6C3ED?1671634841
+https://www.assetnote.io/resources/research/citrix-bleed-leaking-session-tokens-with-cve-2023-4966
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5010
+https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_30.10.2023.txt
