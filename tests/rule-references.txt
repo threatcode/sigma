@@ -3519,3 +3519,17 @@ https://www.virustotal.com/gui/file/d6f6bc10ae0e634ed4301d584f61418cee18e5d58ad9
 https://objective-see.org/blog/blog_0x6D.html
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a
 https://www.x86matthew.com/view_post?id=create_svc_rpc
+https://github.com/AonCyberLabs/Cexigua/blob/34d338620afae4c6335ba8d8d499e1d7d3d5d7b5/overwrite.sh
+https://www.virustotal.com/gui/file/483fafc64a2b84197e1ef6a3f51e443f84dc5742602e08b9e8ec6ad690b34ed0/behavior
+https://github.com/gentilkiwi/mimikatz
+https://github.com/deepinstinct/NoFilter/blob/121d215ab130c5e8e3ad45a7e7fcd56f4de97b4d/NoFilter/Consts.cpp
+https://github.com/pr0xylife/Pikabot/blob/main/Pikabot_22.12.2023.txt
+https://github.com/antonioCoco/RoguePotato
+https://blogs.vmware.com/security/2023/11/jupyter-rising-an-update-on-jupyter-infostealer.html
+https://www.trendmicro.com/en_ph/research/20/k/new-macos-backdoor-connected-to-oceanlotus-surfaces.html
+https://www.welivesecurity.com/2017/10/20/osx-proton-supply-chain-attack-elmedia/
+https://www.virustotal.com/gui/file/05a2adb266ec6c0ba9ed176d87d8530e71e845348c13caf9f60049760c312cd3/behavior
+https://www.tarasco.org/security/pwdump_7/
+https://ss64.com/osx/sw_vers.html
+https://cydefops.com/devtunnels-unleashed
+https://reconshell.com/winpwn-tool-for-internal-windows-pentesting-and-ad-security/
