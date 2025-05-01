@@ -3519,3 +3519,16 @@ https://www.virustotal.com/gui/file/d6f6bc10ae0e634ed4301d584f61418cee18e5d58ad9
 https://objective-see.org/blog/blog_0x6D.html
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-144a
 https://www.x86matthew.com/view_post?id=create_svc_rpc
+https://github.com/pr0xylife/Pikabot/blob/7f7723a74ca325ec54c6e61e076acce9a4b20538/Pikabot_22.12.2023.txt
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.diagnostics/get-winevent?view=powershell-7.3
+https://www.welivesecurity.com/2019/04/09/oceanlotus-macos-malware-update/
+https://www.virustotal.com/gui/file/05a2adb266ec6c0ba9ed176d87d8530e71e845348c13caf9f60049760c312cd3/behavior
+https://www.splunk.com/en_us/blog/security/you-bet-your-lsass-hunting-lsass-access.html
+https://www.linkedin.com/pulse/guntior-story-advanced-bootkit-doesnt-rely-windows-disk-baranov-wue8e/
+https://www.fireeye.com/blog/threat-research/2020/05/tactics-techniques-procedures-associated-with-maze-ransomware-incidents.html
+https://learn.microsoft.com/en-us/windows/security/threat-protection/auditing/event-4662
+https://www.welivesecurity.com/2017/10/20/osx-proton-supply-chain-attack-elmedia/
+https://x.com/_st0pp3r_/status/1742203752361128162?s=20
+https://www.virustotal.com/gui/file/d3fa64f63563fe958b75238742d1e473800cb5f49f5cb79d38d4aa3c93709026/behavior
+https://www.intrinsec.com/akira_ransomware/
+https://web.archive.org/web/20160727113019/https://answers.microsoft.com/en-us/protect/forum/mse-protect_scanning/microsoft-antimalware-has-removed-history-of/f15af6c9-01a9-4065-8c6c-3f2bdc7de45e
